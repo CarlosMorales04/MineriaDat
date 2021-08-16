@@ -1,6 +1,6 @@
 # MineriaDat
 
-##Fase 1
+## Fase 1
 
 [Mapa Mental 1](https://github.com/CarlosMorales04/MineriaDat/blob/main/MapaMental_1_1857712.pdf)
 
