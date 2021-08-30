@@ -10,5 +10,3 @@
 
 [Ejercicio de limpieza de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ej_Limpieza_Equipo_9.ipynb)
 
-[Primer avance del PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance1_PIA_Equipo_9.ipynb)
-
