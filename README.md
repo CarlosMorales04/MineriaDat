@@ -17,7 +17,7 @@
 
 [Ejemplo de técnica](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
 
-[Práctica de Visualización)(https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Visualizacion_Equipo_9.ipynb)
+[Práctica de Visualización](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Visualizacion_Equipo_9.ipynb)
 
 [Segundo avance del PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
 
