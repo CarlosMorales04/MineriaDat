@@ -23,6 +23,6 @@
 
 [Segundo avance del PIA corregido](https://github.com/CarlosMorales04/MineriaDat/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
 
-[Práctica de técnica](https://github.com/CarlosMorales04/MineriaDat/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
+[Práctica de técnica](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
 
 
