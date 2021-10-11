@@ -21,4 +21,6 @@
 
 [Segundo avance del PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
 
+[Segundo avance del PIA corregido](https://github.com/CarlosMorales04/MineriaDat/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
+
 
