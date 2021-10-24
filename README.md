@@ -28,3 +28,5 @@
 [Práctica de técnica](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Pr%C3%A1ctica_t%C3%A9cnica_Equipo9.ipynb)
 
 [Notebook](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Notebook_Final_Equipo_9.ipynb)
+
+[Póster](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.pdf)
